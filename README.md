@@ -2,7 +2,6 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e gosto de transformar o que aprendo em projetos práticos. Tenho estudado desenvolvimento web, Python, automações e modelagem de dados. Também quero aprofundar meus conhecimentos em Inteligência Artificial e desenvolvimento de software.
 
----
 
 ## Formação e estudos
 
