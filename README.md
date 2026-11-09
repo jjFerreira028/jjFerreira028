@@ -30,7 +30,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e gosto de transformar o
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## Áreas de interesse
 
@@ -40,7 +39,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e gosto de transformar o
 - Modelagem e estruturação de banco de dados
 - Inteligência Artificial
 
----
 
 ## Reflexão sobre os perfis de referência
 
@@ -48,7 +46,6 @@ Ao comparar dez perfis que já sigo, percebi que cada pessoa apresenta seu traba
 
 A análise dos dez perfis está no repositório [Benchmarking e Portfólio](https://github.com/jjFerreira028/Benchmarking-e-Portf-lio).
 
----
 
 ## Projetos
 
@@ -64,13 +61,11 @@ Projeto prático sobre Engenharia de Prompt e aplicações de Inteligência Arti
 
 Projeto acadêmico em grupo para praticar colaboração, controle de versão e uso do GitHub.
 
----
 
 ## Objetivo
 
 Continuar desenvolvendo minhas habilidades técnicas, aprofundar meus conhecimentos e transformar o que aprendo no curso em projetos práticos.
 
----
 
 ## Contato
 
