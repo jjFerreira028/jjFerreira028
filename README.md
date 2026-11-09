@@ -1,17 +1,42 @@
-# João Victor Mendes Ferreira
+# Olá! Sou João Victor Mendes Ferreira
 
-Estudante de Análise e Desenvolvimento de Sistemas na UDF  
-Foco Técnico: Desenvolvimento Web, Front-End e Soluções Low-Code/No-Code  
-Localização: Brasília - DF, Brasil  
+Sou estudante de Análise e Desenvolvimento de Sistemas, interessado em tecnologia, desenvolvimento web, automações e modelagem de dados.
+Gosto de entender como as coisas funcionam, explorar novas tecnologias e transformar ideias em projetos funcionais. Atualmente, estou construindo minha base em programação e buscando aplicar o conhecimento adquirido durante minha formação.
 
 ---
 
-## Sobre Mim
+## Formação Acadêmica e Estudos
+- Análise e Desenvolvimento de Sistemas
+- HTML5, CSS3 e JavaScript
+- Python
+- MySQL e Modelagem de Banco de Dados
+- Lógica de programação e arquitetura de sistemas
 
-Estudante de tecnologia focado no desenvolvimento de aplicações web modernas, arquiteturas de sistemas e automações eficientes. O meu objetivo académico e profissional é projetar soluções funcionais, intuitivas e de alto rigor técnico, aplicando as melhores práticas de engenharia de software tanto em projetos do curso quanto em iniciativas comerciais.
+---
 
-- Atualmente a aprofundar conhecimentos em Desenvolvimento Web, Automações e Modelagem de Dados.
-- Objetivo principal: consolidar carreira na área de tecnologia e desenvolvimento de sistemas.
+## Tecnologias e Ferramentas
+
+### Linguagens e Desenvolvimento
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Áreas de Interesse
+- Desenvolvimento de software
+- Desenvolvimento web e aplicações front-end
+- Automações e engenharia de sistemas
+- Modelagem e estruturação de banco de dados
 
 ---
 
@@ -28,25 +53,24 @@ A incorporação destas boas práticas assegura que o perfil técnico reflita or
 
 ---
 
-## Tecnologias e Ferramentas
+## Projetos
 
-**Linguagens e Front-End:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Engenharia de Prompt (2026.1)
+Projeto prático desenvolvido sobre Engenharia de Prompt e Aplicações em Inteligência Artificial[cite: 18].  
+[Repositório do Projeto](https://github.com/jjFerreira028/Engenharia-de-prompt)
 
-**Back-End e Banco de Dados:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas e Workflow:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Desafio Colaborativo Git (2026.2)
+Projeto acadêmico desenvolvido em grupo com foco na colaboração, controle de versão e utilização prática do Git e GitHub[cite: 18].  
+[Repositório do Projeto](https://github.com/Isaquemacedoxyx/desafiocolaborativo-git)
 
 ---
 
-## Contato e Redes Profissionais
+## Objetivo
+Continuar desenvolvendo minhas habilidades técnicas, aprofundar meus conhecimentos em computação e construir projetos que transformem aprendizado em experiência prática.
 
+---
+
+## Contato
+- GitHub: [jjFerreira028](https://github.com/jjFerreira028)
 - LinkedIn: [João Victor Mendes Ferreira](https://www.linkedin.com/in/jo%C3%A3o-victor-mendes-ferreira-735885410/)
 - E-mail Profissional: [joaomfdf@hotmail.com](mailto:joaomfdf@hotmail.com)
