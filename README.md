@@ -15,15 +15,6 @@ Estudante de tecnologia focado no desenvolvimento de aplicações web modernas, 
 
 ---
 
-## Disciplinas Atuais (2026.2)
-
-* Algoritmos e Pensamento Computacional — Profª. Ione Ferrarini Goulart[cite: 1]
-* Desenvolvimento Front-End Para Web — Prof. Eliel Silva Da Cruz[cite: 1]
-* Design Profissional — Prof. Bruno Eduardo Morais De Araujo[cite: 1]
-* Modelagem de Banco de Dados — Prof. Raniere Azevedo Magalhaes[cite: 1]
-
----
-
 ## Reflexão Técnica e Análise de Referências em TI
 
 Ao analisar perfis de desenvolvedores e referências da área de TI no GitHub, identifiquei padrões consistentes que diferenciam portfólios amadores de perfis profissionais de alto nível:
@@ -39,14 +30,19 @@ A incorporação destas boas práticas assegura que o perfil técnico reflita or
 
 ## Tecnologias e Ferramentas
 
-**Linguagens e Front-End:**
-- HTML5, CSS3, JavaScript
+**Linguagens e Front-End:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Back-End e Banco de Dados:**
-- Python, MySQL
+**Back-End e Banco de Dados:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Ferramentas e Workflow:**
-- Git, GitHub, VS Code
+**Ferramentas e Workflow:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
